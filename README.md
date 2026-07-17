@@ -177,7 +177,6 @@ NO 😄
 
 
 
-
 <!-- Birthday Card -->
 
 <div id="card">
